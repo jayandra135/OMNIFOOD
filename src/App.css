@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+h1,h4{
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+  word-spacing: 10px;
+}
+
+.card{
+  margin: 20px;
+  background-color: aquamarine;
+  
+
+}
