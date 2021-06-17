@@ -46,6 +46,9 @@ const Container = styled.div`
     flex-direction:column;
     margin-top:50px;
     margin-bottom:20%;
+     @media(max-width:768px){
+        margin-bottom:55%;
+         }
     
 `
 const ContactTitle = styled.div`
