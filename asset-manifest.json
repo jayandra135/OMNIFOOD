@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OMNIFOOD/static/css/main.1815984e.chunk.css",
+    "main.js": "/OMNIFOOD/static/js/main.d5e51e8a.chunk.js",
+    "main.js.map": "/OMNIFOOD/static/js/main.d5e51e8a.chunk.js.map",
+    "runtime-main.js": "/OMNIFOOD/static/js/runtime-main.e9f84ce8.js",
+    "runtime-main.js.map": "/OMNIFOOD/static/js/runtime-main.e9f84ce8.js.map",
+    "static/js/2.90a56aef.chunk.js": "/OMNIFOOD/static/js/2.90a56aef.chunk.js",
+    "static/js/2.90a56aef.chunk.js.map": "/OMNIFOOD/static/js/2.90a56aef.chunk.js.map",
+    "static/js/3.84d83f5e.chunk.js": "/OMNIFOOD/static/js/3.84d83f5e.chunk.js",
+    "static/js/3.84d83f5e.chunk.js.map": "/OMNIFOOD/static/js/3.84d83f5e.chunk.js.map",
+    "index.html": "/OMNIFOOD/index.html",
+    "static/css/main.1815984e.chunk.css.map": "/OMNIFOOD/static/css/main.1815984e.chunk.css.map",
+    "static/js/2.90a56aef.chunk.js.LICENSE.txt": "/OMNIFOOD/static/js/2.90a56aef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9f84ce8.js",
+    "static/js/2.90a56aef.chunk.js",
+    "static/css/main.1815984e.chunk.css",
+    "static/js/main.d5e51e8a.chunk.js"
+  ]
+}
