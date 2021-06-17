@@ -41,7 +41,7 @@ const Home = () =>{
                 </Section>
 
                 <Features items={Block}></Features>
-                <MealPhoto></MealPhoto>
+                
         </Container>
       </>
     )
