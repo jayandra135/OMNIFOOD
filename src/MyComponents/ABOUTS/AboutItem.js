@@ -25,7 +25,9 @@ const Container = styled.div`
     margin-top:50px;
     margin-bottom:20%;
     height:auto;
-    
+     @media(max-width:768px){
+        margin-bottom:55%;
+         }
 `
 const Wrap = styled.div`
     border: 1px solid rgb(214, 212, 212);
